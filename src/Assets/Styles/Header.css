@@ -1,0 +1,11 @@
+header {
+    grid-column: 1/3; /* Setting header element (child of body grid) to span column lines 1 to 3 */
+    display: flex; /* use flex to position logo and links correctly */ 
+    align-items: center; /* center logo and nav elements in y plane */
+    justify-content: space-between; /*space logo and nav links either side of screen */
+    padding: 10px;
+  }
+  
+  nav a {
+    text-decoration-line: none;
+  }
