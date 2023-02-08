@@ -18,7 +18,7 @@ Personal work portfolio website remaster with React framework
 
 ## Installation
 
-Pull repo contents from: https://github.com/SimonStoneman/Team-Profile-Generator.git
+Pull repo contents from: https://github.com/SimonStoneman/portfolio-reactified.git
 
 ## Usage
 
