@@ -3,13 +3,14 @@ import {NavLink} from 'react-router-dom';
 
 
 
-function Landing() {
+function Landing(props) {
+
     return (
 
       <main className="page-wrapper">
         <section className="hero-banner">
         
-          <h2>Simon Stoneman</h2>
+          <h2>{props.name}</h2>
      
         </section>
 
@@ -38,6 +39,7 @@ function Landing() {
       </main>
 
     )
+    
   }
   
   export default Landing;

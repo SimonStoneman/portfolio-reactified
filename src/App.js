@@ -10,6 +10,9 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 
 function App() {
+
+  const name = 'Simon Stoneman';
+
   return (
     <>
       <Header />
@@ -22,7 +25,7 @@ function App() {
         <Route path="/project" element={<Project />} />
       </Routes>
 
-      <Footer />
+      <Footer name={name}/>
     </>
   );
 }
