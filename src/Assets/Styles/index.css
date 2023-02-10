@@ -18,11 +18,13 @@ code {
 }
 
 #root {
-  display:grid;
-  grid-template-columns: 1fr 1fr; /* set 2 cols */
-  grid-template-rows: 50px auto 50px;
   margin: 0;
   padding: 0;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   line-height: 1.5;
+
+  /* my properties */
+  display:grid;
+  grid-template-columns: repeat(1fr); /* set 2 cols */
+  grid-template-rows: 50px auto 50px;
 }

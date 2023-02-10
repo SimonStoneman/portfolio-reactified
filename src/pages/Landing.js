@@ -1,5 +1,7 @@
-import '../assets/styles/landing.css';
+import  '../assets/styles/landing.css';
 import {NavLink} from 'react-router-dom';
+
+
 
 function Landing() {
     return (
