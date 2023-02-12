@@ -1,19 +1,16 @@
 import  '../assets/styles/landing.css';
 import {NavLink} from 'react-router-dom';
 
-
+import Hero from '../components/landingContent/Hero'
 
 function Landing(props) {
 
     return (
 
       <main className="page-wrapper">
-        <section className="hero-banner">
-        
-          <h2>{props.name}</h2>
-     
-        </section>
 
+        <Hero name={props.name}/>
+        
         {/* about me */}
 
         <section className="page-section" id="about">

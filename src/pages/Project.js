@@ -1,4 +1,4 @@
-import ProjectDetails from '../components/ProjectDetails'
+import ProjectDetails from '../components/projectContent/ProjectDetails'
 
 function Project(props) {
     return (

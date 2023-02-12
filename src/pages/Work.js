@@ -1,5 +1,5 @@
 import '../assets/styles/projectgallery.css';
-import ProjectGallery from '../components/ProjectGallery'
+import ProjectGallery from '../components/workContent/ProjectGallery'
 
 function Work() {
     return (

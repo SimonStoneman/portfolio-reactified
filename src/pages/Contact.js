@@ -1,4 +1,4 @@
-import { useState } from "react";
+// import { useState } from "react";
 
 function Contact() {
 
@@ -28,11 +28,11 @@ function Contact() {
 
   // }
 
-  const handleSubmit = (event) => {
-    event.preventDefault();
+  // const handleSubmit = (event) => {
+  //   event.preventDefault();
 
-    // console.log(formData);
-  }
+  //   // console.log(formData);
+  // }
 
     return (
 
