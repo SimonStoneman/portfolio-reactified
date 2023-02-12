@@ -38,7 +38,7 @@ function ProjectGallery() {
                 <h2>{projObj.name}</h2>
               </NavLink>
 
-              <img src={projObj.screenshot} alt=''></img>
+              <img src={projObj.screenshot} alt='' width="700" height="700"></img>
 
             </div>
           )
