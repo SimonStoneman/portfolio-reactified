@@ -13,10 +13,8 @@ function ProjectGallery() {
               <NavLink 
               className="navbar-brand" 
               style={{textDecoration: 'none'}} 
-              to={{
-                pathname:"/project",
-                state:{name:'blah'}
-              }}
+              to="/project" state={{ some: "value"}}
+        
                 //   
                 
                 // name:`${projObj.name}`,
