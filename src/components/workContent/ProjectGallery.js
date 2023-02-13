@@ -1,5 +1,5 @@
 import projData from '../../projects.json';
-import { NavLink } from 'react-router-dom';
+import { NavLink, Link } from 'react-router-dom';
 
 function ProjectGallery() {
 
@@ -13,26 +13,13 @@ function ProjectGallery() {
               <NavLink 
               className="navbar-brand" 
               style={{textDecoration: 'none'}} 
-              to="/project" state={{ some: "value"}}
-        
-                //   
-                
-                // name:`${projObj.name}`,
-              
-                // description: {
-                //   description:`${projObj.description}`
-                // },
-                // deploylink: {
-                //   deployedlink:`${projObj.deployedlink}`
-                // },
-                // githubrepolink: {
-                //   githubrepolink:`${projObj.githubrepolink}`
-                // },
-                // screenshot: {
-                //   screenshot:`${projObj.screenshot}`
-                // }  
-                                
-              >
+              to="/project" state={{
+                name: projObj.name,
+                description: projObj.description,
+                deployedlink: projObj.deployedlink,
+                githubrepolink: projObj.githubrepolink,
+                screenshot: projObj.screenshot 
+              }}>
                 <h2>{projObj.name}</h2>
               </NavLink>
 
