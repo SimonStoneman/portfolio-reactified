@@ -1,4 +1,4 @@
-import '../assets/styles/footer.css';
+import './footer.css';
 
 function Footer(props) {
   return (

@@ -1,4 +1,4 @@
-import '../assets/styles/work.css';
+import './work.css';
 import ProjectGallery from '../components/workContent/ProjectGallery'
 
 function Work() {

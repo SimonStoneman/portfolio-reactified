@@ -1,6 +1,6 @@
 import ProjectDetails from '../components/projectContent/ProjectDetails'
 import { useLocation } from 'react-router-dom';
-import '../assets/styles/project.css';
+import './project.css';
 
 function Project() {
 
