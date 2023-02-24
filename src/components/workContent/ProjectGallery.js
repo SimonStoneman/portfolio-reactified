@@ -1,6 +1,5 @@
 import projData from '../../projects.json';
 import { NavLink } from 'react-router-dom';
-import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 
 function ProjectGallery() {
