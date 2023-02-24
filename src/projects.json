@@ -1,76 +1,76 @@
 [
     {
-        "name": "1:- HTML-Semantic-Refactoring",
+        "name": "HTML-Semantic-Refactoring",
         "description": "Refactored HTML & CSS with symantic tag corrections and structoring. Added accessability features also",
         "deployedlink": "https://simonstoneman.github.io/Week1-Challenge/",
         "githubrepolink": "https://github.com/SimonStoneman/HTML-Semantic-Refactoring/tree/V1",
         "screenshot": "/assets/projectscreenshots/html-semantic-refactoring/Screenshot.png"
     },
     {
-        "name": "2:- HTML-CSS-Based-Portfolio",
+        "name": "HTML-CSS-Based-Portfolio",
         "description": "Refactored HTML & CSS with symantic tag corrections and structoring. Added accessability features also",
         "deployedlink": "https://simonstoneman.github.io/Week1-Challenge/",
         "githubrepolink": "https://github.com/SimonStoneman/HTML-CSS-Based-Portfolio/tree/sitecorrection",
         "screenshot": "../../assets/projectscreenshots/html-css-based-portfolio/Screenshot.png"
     },
     {
-        "name": "3:- Bootstrap-Portfolio-Update",
+        "name": "Bootstrap-Portfolio-Update",
         "description": "Refactored HTML & CSS with symantic tag corrections and structoring. Added accessability features also",
         "deployedlink": "https://simonstoneman.github.io/Week1-Challenge/",
         "githubrepolink": "https://github.com/SimonStoneman/Bootstrap-Portfolio-Update/tree/V1",
         "screenshot": "../../assets/projectscreenshots/bootstrap-portfolio-update/Screenshot.png"
     },
     {
-        "name": "4:- Console-Finances",
+        "name": "Console-Finances",
         "description": "Refactored HTML & CSS with symantic tag corrections and structoring. Added accessability features also",
         "deployedlink": "https://simonstoneman.github.io/Week1-Challenge/",
         "githubrepolink": "https://github.com/SimonStoneman/Console-Finances/tree/V1",
         "screenshot": "../../assets/projectscreenshots/console-finances/Screenshot.png"
     },
     {
-        "name": "5:- User-Password-Generator",
+        "name": "User-Password-Generator",
         "description": "Refactored HTML & CSS with symantic tag corrections and structoring. Added accessability features also",
         "deployedlink": "https://simonstoneman.github.io/Week1-Challenge/",
         "githubrepolink": "https://github.com/SimonStoneman/User-Password-Generator/tree/V1",
         "screenshot": "../../assets/projectscreenshots/user-password-generator/Screenshot.png"
     },
     {
-        "name": "6:- Who-Wants-Tobe-a-JavaScriptaire",
+        "name": "Who-Wants-Tobe-a-JavaScriptaire",
         "description": "Refactored HTML & CSS with symantic tag corrections and structoring. Added accessability features also",
         "deployedlink": "https://simonstoneman.github.io/Week1-Challenge/",
         "githubrepolink": "https://github.com/SimonStoneman/Who-Wants-Tobe-a-JavaScriptaire/tree/rev2",
         "screenshot": "../../assets/projectscreenshots/who-wants-tobe-a-javascriptaire/Screenshot.png"
     },
     {
-        "name": "7:- Daily-Work-Planner",
+        "name": "Daily-Work-Planner",
         "description": "Refactored HTML & CSS with symantic tag corrections and structoring. Added accessability features also",
         "deployedlink": "https://simonstoneman.github.io/Week1-Challenge/",
         "githubrepolink": "https://github.com/SimonStoneman/Daily-Work-Planner/tree/version2",
         "screenshot": "../../assets/projectscreenshots/daily-work-planner/Screenshot.png"
     },
     {
-        "name": "8:- Weather-Dashboard-App",
+        "name": "Weather-Dashboard-App",
         "description": "Refactored HTML & CSS with symantic tag corrections and structoring. Added accessability features also",
         "deployedlink": "https://simonstoneman.github.io/Week1-Challenge/",
         "githubrepolink": "https://github.com/SimonStoneman/Weather-Dashboard-App/tree/version2",
         "screenshot": "../../assets/projectscreenshots/weather-dashboard-app/Screenshot.png"
     },
     {
-        "name": "9:- FetchBook",
+        "name": "FetchBook",
         "description": "Refactored HTML & CSS with symantic tag corrections and structoring. Added accessability features also",
         "deployedlink": "https://c-navarroperez.github.io/fetchbook/",
         "githubrepolink": "https://github.com/c-navarroperez/fetchbook/tree/main",
         "screenshot": "../../assets/projectscreenshots/fetchbook/Fetchbook-scrShot.png"
     },
     {
-        "name": "10:- Git-Readme-Generator",
+        "name": "Git-Readme-Generator",
         "description": "Refactored HTML & CSS with symantic tag corrections and structoring. Added accessability features also",
         "deployedlink": "https://simonstoneman.github.io/Week1-Challenge/",
         "githubrepolink": "https://github.com/SimonStoneman/Git-Readme-Generator/tree/ver2",
         "screenshot": "../../assets/projectscreenshots/git-readme-generator/Screenshot.png"
     },
     {
-        "name": "11:- Team-Profile-Generator",
+        "name": "Team-Profile-Generator",
         "description": "Refactored HTML & CSS with symantic tag corrections and structoring. Added accessability features also",
         "deployedlink": "https://simonstoneman.github.io/Week1-Challenge/",
         "githubrepolink": "https://github.com/SimonStoneman/Team-Profile-Generator/tree/main",

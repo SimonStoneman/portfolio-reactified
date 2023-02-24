@@ -1,3 +1,4 @@
+import '../assets/styles/contact.css';
 // import { useState } from "react";
 
 function Contact() {
@@ -36,9 +37,9 @@ function Contact() {
 
     return (
 
-      <main>
+      <main className="contact-main">
 
-        <h1>Get in Touch</h1>
+        <h2>Get in Touch</h2>
   
         {/* <form onSubmit={handleSubmit}>
           <input name="name" onChange={handleChange} type="text" placeholder="Enter you name"></input>

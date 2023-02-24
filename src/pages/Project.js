@@ -1,11 +1,12 @@
 import ProjectDetails from '../components/projectContent/ProjectDetails'
 import { useLocation } from 'react-router-dom';
+import '../assets/styles/project.css';
 
 function Project() {
 
       const {state} = useLocation();
    
-      console.log("state State Value - " + JSON.stringify(state.name));
+    //   console.log("state State Value - " + JSON.stringify(state.name));
 
     return (
         <main>

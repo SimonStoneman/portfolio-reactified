@@ -1,14 +1,16 @@
 html, body {
   height: 100%;
+  margin: 0;
 }
 
 body {
-  margin: 0;
+
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgba(161, 153, 147, 1);
 
 }
 
@@ -24,7 +26,29 @@ code {
   line-height: 1.5;
 
   /* my properties */
+
+  height: 100%;
   display:grid;
-  grid-template-columns: repeat(1fr); /* set 2 cols */
-  grid-template-rows: 50px auto 50px;
+  grid-template-rows: 100px auto 100px;
 }
+
+h1 {
+  font-family: "Plaster", sans-serif;
+  font-size: 50px;
+  color: rgba(49, 40, 29, 1);
+}
+
+h2 {
+  font-weight: lighter;
+  font-family: "Plaster", sans-serif;
+  font-size: 40px;
+  color: rgba(49, 40, 29, 1);
+}
+
+h3 {
+  font-weight: lighter;
+  font-family: "Plaster", sans-serif;
+  font-size: 30px;
+  color: rgba(49, 40, 29, 1);
+}
+
